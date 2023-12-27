@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm João Vitor</h1>
-<p align="center">Coding my way to be a full stack developer. Turning lines into solutions and bugs into learning. 💻✨</p>
+<p align="center">Coding my way to be a Fullstack Developer. Turning lines into solutions and bugs into learning. 💻✨</p>
 <br>
 <div align="center">
   <h2 align="center">Connect with me 🔗:</h2>
