@@ -10,7 +10,6 @@
   <!--Instagram--><a href="https://www.instagram.com/jvssvj7/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="30"/></a>
 </div>
 
-    
 <div align="center">
   <h3>Languages and Tools 🛠️:</h3>
   <!--HTML5--><a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" height="30"</a>
@@ -19,15 +18,6 @@
   <!--Adobe Photoshop--><a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="photoshop" height="30"</a>
   <!--Visual Studio Code--><a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="VSCODE" height="30"</a>
   <!--Figma--><a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" height="30"</a>
-
-  
-  
-
-   
-</div>
-    
-<div align = "center">
-<h2>📊 Github Stats</h2>
 </div>
 
 
