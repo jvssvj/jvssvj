@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm João Vitor</h1>
-<p align="center">Coding my way to be a developer. Turning lines into solutions and bugs into learning. 💻✨</p>
+<p align="center">Exploring the universe of code, one commit at a time.🚀</p>
 <br>
 <div align="center">
   <h2 align="center">Connect with me 🔗:</h2>
