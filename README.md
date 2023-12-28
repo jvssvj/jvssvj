@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <h3>Languages and Tools 🛠️:</h3>
+  <h2>Languages and Tools 🛠️:</h2>
   <!--HTML5--><a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" height="30"</a>
   <!--CSS3--><a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"  height="30"/></a>
   <!--JavaScript--><a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" height="30"</a>
