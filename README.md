@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 <h1>Hi 👋, I'm João</h1>
 <p align="left"> 
-  In the vast universe of technology, I am taking the challenging and exciting path to becoming a programmer. Every line of code is a learning opportunity, and every challenge is a chance to grow. I am immersed in the fascinating world of programming, where logic and creativity intertwine to create innovative solutions. 📚🚀
+  In the vast universe of technology, I am taking the challenging and exciting path to becoming a programmer. Every line of code is a learning opportunity, and every challenge is a chance to grow. 📚🚀
 </p>
 
 <div align="left">
