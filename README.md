@@ -47,6 +47,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/jvssvj/jvssvj/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
 
 ###
