@@ -1,24 +1,52 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-<h1>Hi 👋, I'm João</h1>
-<p align="left"> 
-  In the vast universe of technology, I am taking the challenging and exciting path to becoming a programmer. Every line of code is a learning opportunity, and every challenge is a chance to grow. 📚🚀
-</p>
+<h1 align="left">Hi 👋</h1>
+
+###
+
+<p align="left">My name is João. I am passionate about technology and am currently on the path to becoming a programmer. I love exploring new tools, solving problems and turning ideas into practical solutions. Each project is an opportunity to learn something new and grow professionally 🚀</p>
+
+###
+
+<h3 align="left">Tools and technologies I use:</h3>
+
+###
 
 <div align="left">
-  <h2>Technologies and tools 🛠:</h2>
-  <!--HTML5--><a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" height="25"</a>
-  <!--CSS3--><a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"  height="25"/></a>
-  <!--JavaScript--><a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" height="25"</a>
-  <!--Figma--><a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" height="25"</a>
-  <!--Adobe Photoshop--><a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop" height="25"</a>
-  <!--Visual Studio Code--><a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="VSCODE" height="25"</a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
-    
+
+###
+
+<h3 align="left">Connect with me 🔗:</h3>
+
+###
+
 <div align="left">
-  <h2>Connect with me 🔗:</h2>
-  <!--FreecodeCamp--><a href="https://www.freecodecamp.org/jvssvj7" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/freecodecamp-25253D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="FreeCodeCamp" height="25"</a>
-  <!--Facebook--><a href="https://www.facebook.com/jvssvj7/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="25"/></a>
-  <!--Frontend Mentor--><a href="https://www.frontendmentor.io/profile/jvssvj" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-thebadge&logo=FrontendMentor&logoColor=white" alt="FrontEndMentor" height="25"/></a>
-  <!--Linkedin--><a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-62b518263/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="25"/></a>
-  <!--Instagram--><a href="https://www.instagram.com/jvssvj7/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="25"/></a>
+  <a href="https://www.linkedin.com/in/jvssvj/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/jvssvj7/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="joao7791vitor@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
+
+###
+
+<div align="center">
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/jvssvj/jvssvj/output/snake.svg" alt="Snake animation" />
+
+###
