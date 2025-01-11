@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">Tools and technologies I use:</h3>
+<h3 align="left">Tech Stack:</h3>
 
 ###
 
